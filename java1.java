@@ -18,6 +18,3 @@ public class Solution {
         // Complete this line
     }
 }
-
-
-\
