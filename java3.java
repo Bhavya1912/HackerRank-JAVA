@@ -14,8 +14,6 @@ public class Solution {
         int end = in.nextInt();
         String S1 = S.substring(start,end);
         System.out.println(S1);
+        System.out.println(S1);
     }
 }
-
-
-
